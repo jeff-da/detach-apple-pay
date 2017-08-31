@@ -7,8 +7,8 @@ target 'detach-apple-pay' do
     :tag => "ios/1.19.1",
     :subspecs => [
       "Core",
-      "CPP”,
-      “Payments”
+      "CPP",
+      "Payments"
     ]
 
   pod 'React',
